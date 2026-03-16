@@ -59,7 +59,3 @@ The Activity Booking module allows users to:
 ### Tools & APIs
 - Google Maps API / Mapbox
 - Git & GitHub for version control
-
----
-
-## Project Structure
